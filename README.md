@@ -1,5 +1,5 @@
 # 💫 About Me:
-japan international university student<br>data science, data analysis, deep learning<br>machine learning, statistics.<br>My Interested in problem solving, AI development 
+japan international university student<br>data science, data analysis, deep learning<br>machine learning, statistics.<br>Interested in problem solving, AI development 
 
 
 # 💻 Tech Stack:
