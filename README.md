@@ -1,4 +1,4 @@
-Studying Data Science, Business Data Science & AI in Japan<br>💻 Learning Python, C++, Java, PHP, and R through my coursework<br>🌱 Currently self-studying Julia and sharpening my Git/GitHub workflow<br>🔭 Working on projects that combine data analysis, business insight, and AI
+Studying Data Science, Business Data Science & AI in Japan<br>Learning Python, C++, Java, PHP, and R through my coursework<br>Currently self-studying Julia and sharpening my Git/GitHub workflow<br>Working on projects that combine data analysis, business insight, and AI
 
 
 ## 🌐 Socials:
