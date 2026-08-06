@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm an international student at [Japan International University ] in Japan, majoring in Data Science, Business Data Science, and Artificial Intelligence.<br><br>I'm interested in how data and AI can be used to solve real business problems, and I enjoy learning new languages and tools outside of class to build on what I study in school.<br><br><br>🎓 Studying Data Science, Business Data Science & AI in Japan<br>💻 Learning Python, C++, Java, PHP, and R through my coursework<br>🌱 Currently self-studying Julia and sharpening my Git/GitHub workflow<br>🔭 Working on projects that combine data analysis, business insight, and AI
+Studying Data Science, Business Data Science & AI in Japan<br>💻 Learning Python, C++, Java, PHP, and R through my coursework<br>🌱 Currently self-studying Julia and sharpening my Git/GitHub workflow<br>🔭 Working on projects that combine data analysis, business insight, and AI
 
 
 ## 🌐 Socials:
